@@ -1,0 +1,26 @@
+name: MITRE Mapping Automation
+
+on:
+  push:
+    branches:
+      - main  # Runs when code is pushed to the main branch
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4  # Fetches the code from the repository
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt  # Modify if needed
+
+      - name: Run MITRE Mapping Script
+        run: python mitre_mapping.py  # Replace with your actual script
