@@ -1,35 +1,39 @@
-name: MITRE ATT&CK Mapping Automation
+name: Update MITRE CVE Mappings
 
 on:
   schedule:
-    - cron: '0 0 * * 1'  # Runs every Monday at midnight
-  push:
-    branches:
-      - main
+    - cron: '0 12 * * *'  # Runs daily at 12:00 UTC
+  workflow_dispatch:  # Allows manual triggering from GitHub
 
 jobs:
-  mapping:
+  update-cve-mitre:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v3
-      with:
-        python-version: '3.9'
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-    - name: Install dependencies
-      run: pip install attackcti requests
+      - name: Install Dependencies
+        run: |
+          pip install requests pygithub
+          pip install git+https://github.com/ctr2/attackcti.git
 
-    - name: Run MITRE ATT&CK mapping script
-      run: python map_cves.py
+      - name: Run MITRE Mapping Script
+        env:
+          NVD_API_KEY: ${{4a934f93-bb8d-43aa-8c9b-e7571f85e3f0}}
+          GITHUB_TOKEN: ${{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}}
+        run: python Mitre_Mapping.py  # Change this to your script name
 
-    - name: Commit and push results
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add cve_mitre_mapping.json
-        git commit -m "Updated MITRE ATT&CK mappings"
-        git push
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add cve_mitre_mapping.json || echo "Nothing to add"
+          git diff --quiet && echo "No changes to commit" || (git commit -m "🔄 Automated update of MITRE mappings" && git push)
+        env:
+          GITHUB_TOKEN: ${{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}}
