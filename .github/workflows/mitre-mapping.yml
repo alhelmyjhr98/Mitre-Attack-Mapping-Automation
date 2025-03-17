@@ -19,12 +19,9 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}  # Use the stored GitHub token
         run: |
           pip install requests pygithub
-          pip install git+https://${GH_PAT}@github.com/ctr2/attackcti.git  # Authenticate with token
-
+          pip install attackcti
 
       - name: Run MITRE Mapping Script
         env:
