@@ -25,7 +25,7 @@ jobs:
 
       - name: Run MITRE Mapping Script
         env:
-          NVD_API_KEY: ${{4a934f93-bb8d-43aa-8c9b-e7571f85e3f0}}
+          API_TOKEN: ${{ secrets.API_TOKEN }}
           MY_PAT_TOKEN: ${{ secrets.MY_PAT_TOKEN }}
         run: python Mitre_Mapping.py  # Change this to your script name
 
