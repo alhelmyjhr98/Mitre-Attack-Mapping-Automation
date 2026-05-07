@@ -425,7 +425,7 @@
     },
     {
         "CVE": "CVE-1999-0101",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0297",
@@ -489,7 +489,7 @@
     },
     {
         "CVE": "CVE-1999-0274",
-        "Technique": "T1583.002 - DNS Server"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0345",
@@ -553,7 +553,7 @@
     },
     {
         "CVE": "CVE-1999-0048",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0174",
@@ -593,7 +593,7 @@
     },
     {
         "CVE": "CVE-1999-0299",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-1408",
@@ -713,7 +713,7 @@
     },
     {
         "CVE": "CVE-1999-0275",
-        "Technique": "T1583.002 - DNS Server"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0033",
@@ -749,7 +749,7 @@
     },
     {
         "CVE": "CVE-1999-0184",
-        "Technique": "T1583.002 - DNS Server"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0195",
@@ -769,11 +769,11 @@
     },
     {
         "CVE": "CVE-1999-0532",
-        "Technique": "T1583.002 - DNS Server"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0533",
-        "Technique": "T1583.002 - DNS Server"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0628",
@@ -829,7 +829,7 @@
     },
     {
         "CVE": "CVE-1999-0024",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-1250",
@@ -1105,7 +1105,7 @@
     },
     {
         "CVE": "CVE-1999-0013",
-        "Technique": "T1589.001 - Credentials"
+        "Technique": "T1021.004 - SSH"
     },
     {
         "CVE": "CVE-1999-0087",
@@ -1193,7 +1193,7 @@
     },
     {
         "CVE": "CVE-1999-1075",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-0960",
@@ -1201,7 +1201,7 @@
     },
     {
         "CVE": "CVE-1999-0003",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-0098",
@@ -1233,7 +1233,7 @@
     },
     {
         "CVE": "CVE-1999-0010",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0011",
@@ -1417,7 +1417,7 @@
     },
     {
         "CVE": "CVE-1999-1202",
-        "Technique": "T1090 - Proxy"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-1409",
@@ -1493,7 +1493,7 @@
     },
     {
         "CVE": "CVE-1999-1421",
-        "Technique": "T1592.002 - Software"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-1070",
@@ -1701,7 +1701,7 @@
     },
     {
         "CVE": "CVE-1999-1321",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-1153",
@@ -1761,7 +1761,7 @@
     },
     {
         "CVE": "CVE-1999-1073",
-        "Technique": "T1110 - Brute Force"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-0332",
@@ -1889,7 +1889,7 @@
     },
     {
         "CVE": "CVE-1999-0248",
-        "Technique": "T1589.001 - Credentials"
+        "Technique": "T1021.004 - SSH"
     },
     {
         "CVE": "CVE-1999-0268",
@@ -2129,7 +2129,7 @@
     },
     {
         "CVE": "CVE-1999-0622",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0623",
@@ -2149,7 +2149,7 @@
     },
     {
         "CVE": "CVE-1999-0634",
-        "Technique": "T1021.004 - SSH"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0637",
@@ -2225,7 +2225,7 @@
     },
     {
         "CVE": "CVE-1999-0661",
-        "Technique": "T1592.002 - Software"
+        "Technique": "T1021.004 - SSH"
     },
     {
         "CVE": "CVE-1999-0662",
@@ -2469,7 +2469,7 @@
     },
     {
         "CVE": "CVE-1999-1060",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-1405",
@@ -2553,7 +2553,7 @@
     },
     {
         "CVE": "CVE-1999-0223",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0261",
@@ -2633,7 +2633,7 @@
     },
     {
         "CVE": "CVE-1999-1567",
-        "Technique": "T1592.002 - Software"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-0417",
@@ -2769,7 +2769,7 @@
     },
     {
         "CVE": "CVE-1999-0471",
-        "Technique": "T1090 - Proxy"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-0801",
@@ -3021,7 +3021,7 @@
     },
     {
         "CVE": "CVE-2000-0333",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0772",
@@ -3077,7 +3077,7 @@
     },
     {
         "CVE": "CVE-2000-0118",
-        "Technique": "T1110 - Brute Force"
+        "Technique": "T1110.001 - Password Guessing"
     },
     {
         "CVE": "CVE-1999-0775",
@@ -3301,11 +3301,11 @@
     },
     {
         "CVE": "CVE-1999-1524",
-        "Technique": "T1110 - Brute Force"
+        "Technique": "T1110.001 - Password Guessing"
     },
     {
         "CVE": "CVE-1999-0722",
-        "Technique": "T1592.002 - Software"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-0674",
@@ -3361,7 +3361,7 @@
     },
     {
         "CVE": "CVE-1999-0745",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0747",
@@ -3533,7 +3533,7 @@
     },
     {
         "CVE": "CVE-1999-0910",
-        "Technique": "T1090 - Proxy"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-1575",
@@ -3737,11 +3737,11 @@
     },
     {
         "CVE": "CVE-1999-1082",
-        "Technique": "T1090 - Proxy"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-1083",
-        "Technique": "T1090 - Proxy"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-2000-0369",
@@ -4001,7 +4001,7 @@
     },
     {
         "CVE": "CVE-1999-1539",
-        "Technique": "T1592.002 - Software"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-2000-0329",
@@ -4193,7 +4193,7 @@
     },
     {
         "CVE": "CVE-1999-0858",
-        "Technique": "T1090 - Proxy"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-0864",
@@ -4329,7 +4329,7 @@
     },
     {
         "CVE": "CVE-1999-1004",
-        "Technique": "T1090 - Proxy"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-1005",
@@ -4345,7 +4345,7 @@
     },
     {
         "CVE": "CVE-2000-0020",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-1497",
@@ -4421,11 +4421,11 @@
     },
     {
         "CVE": "CVE-1999-0455",
-        "Technique": "T1059.011 - Lua"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-0477",
-        "Technique": "T1059.011 - Lua"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-2000-0008",
@@ -4525,7 +4525,7 @@
     },
     {
         "CVE": "CVE-1999-1074",
-        "Technique": "T1110 - Brute Force"
+        "Technique": "T1110.002 - Password Cracking"
     },
     {
         "CVE": "CVE-1999-1084",
@@ -4597,7 +4597,7 @@
     },
     {
         "CVE": "CVE-1999-1222",
-        "Technique": "T1583.002 - DNS Server"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-1223",
@@ -4605,7 +4605,7 @@
     },
     {
         "CVE": "CVE-1999-1233",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-1246",
@@ -4649,7 +4649,7 @@
     },
     {
         "CVE": "CVE-1999-1324",
-        "Technique": "T1110 - Brute Force"
+        "Technique": "T1110.001 - Password Guessing"
     },
     {
         "CVE": "CVE-1999-1327",
@@ -4721,7 +4721,7 @@
     },
     {
         "CVE": "CVE-1999-1379",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-1382",
@@ -4805,7 +4805,7 @@
     },
     {
         "CVE": "CVE-1999-1591",
-        "Technique": "T1589.001 - Credentials"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-1592",
@@ -4913,7 +4913,7 @@
     },
     {
         "CVE": "CVE-2000-1221",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-2000-0046",
@@ -5273,7 +5273,7 @@
     },
     {
         "CVE": "CVE-2000-0160",
-        "Technique": "T1592.002 - Software"
+        "Technique": "T1547.014 - Active Setup"
     },
     {
         "CVE": "CVE-2000-0163",
@@ -5389,7 +5389,7 @@
     },
     {
         "CVE": "CVE-2000-0177",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-2000-0190",
@@ -5613,7 +5613,7 @@
     },
     {
         "CVE": "CVE-2000-0300",
-        "Technique": "T1087.002 - Domain Account"
+        "Technique": "T1136.002 - Domain Account"
     },
     {
         "CVE": "CVE-2000-0301",
@@ -5677,7 +5677,7 @@
     },
     {
         "CVE": "CVE-2000-0262",
-        "Technique": "T1090 - Proxy"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-2000-0282",
@@ -5705,7 +5705,7 @@
     },
     {
         "CVE": "CVE-2000-1218",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-2000-0263",
@@ -5809,7 +5809,7 @@
     },
     {
         "CVE": "CVE-2000-0248",
-        "Technique": "T1592.002 - Software"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-2000-0321",
@@ -5933,7 +5933,7 @@
     },
     {
         "CVE": "CVE-2000-0335",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-2000-0345",
@@ -6017,7 +6017,7 @@
     },
     {
         "CVE": "CVE-2000-0416",
-        "Technique": "T1090 - Proxy"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-2000-0419",
@@ -6057,7 +6057,7 @@
     },
     {
         "CVE": "CVE-2000-0397",
-        "Technique": "T1592.002 - Software"
+        "Technique": "T1087.003 - Email Account"
     },
     {
         "CVE": "CVE-2000-0424",
@@ -6093,7 +6093,7 @@
     },
     {
         "CVE": "CVE-2000-0405",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-2000-0432",
@@ -6165,7 +6165,7 @@
     },
     {
         "CVE": "CVE-2000-0396",
-        "Technique": "T1592.002 - Software"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-2000-0398",
@@ -6209,7 +6209,7 @@
     },
     {
         "CVE": "CVE-2000-0517",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-2000-0553",
