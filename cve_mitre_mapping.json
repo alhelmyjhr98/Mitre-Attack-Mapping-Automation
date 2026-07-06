@@ -89,7 +89,7 @@
     },
     {
         "CVE": "CVE-1999-0168",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-0214",
@@ -133,7 +133,7 @@
     },
     {
         "CVE": "CVE-1999-0124",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-1215",
@@ -153,7 +153,7 @@
     },
     {
         "CVE": "CVE-1999-0181",
-        "Technique": "T1684 - Social Engineering"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-1999-0338",
@@ -489,7 +489,7 @@
     },
     {
         "CVE": "CVE-1999-0274",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1583.002 - DNS Server"
     },
     {
         "CVE": "CVE-1999-0345",
@@ -717,7 +717,7 @@
     },
     {
         "CVE": "CVE-1999-0275",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1583.002 - DNS Server"
     },
     {
         "CVE": "CVE-1999-0033",
@@ -753,7 +753,7 @@
     },
     {
         "CVE": "CVE-1999-0184",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1583.002 - DNS Server"
     },
     {
         "CVE": "CVE-1999-0195",
@@ -773,11 +773,11 @@
     },
     {
         "CVE": "CVE-1999-0532",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1583.002 - DNS Server"
     },
     {
         "CVE": "CVE-1999-0533",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1583.002 - DNS Server"
     },
     {
         "CVE": "CVE-1999-0628",
@@ -1153,11 +1153,11 @@
     },
     {
         "CVE": "CVE-1999-1207",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-1999-0290",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-1229",
@@ -1193,11 +1193,11 @@
     },
     {
         "CVE": "CVE-1999-0060",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-1999-1075",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-1999-0960",
@@ -1205,7 +1205,7 @@
     },
     {
         "CVE": "CVE-1999-0003",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-1999-0098",
@@ -1225,11 +1225,11 @@
     },
     {
         "CVE": "CVE-1999-0270",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-1999-1498",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-1999-1505",
@@ -1333,7 +1333,7 @@
     },
     {
         "CVE": "CVE-1999-1443",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-1151",
@@ -1417,11 +1417,11 @@
     },
     {
         "CVE": "CVE-1999-0494",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-1202",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-1409",
@@ -1461,7 +1461,7 @@
     },
     {
         "CVE": "CVE-1999-1297",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-1999-1433",
@@ -1473,7 +1473,7 @@
     },
     {
         "CVE": "CVE-1999-1149",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-1432",
@@ -1497,7 +1497,7 @@
     },
     {
         "CVE": "CVE-1999-1421",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-1070",
@@ -1577,7 +1577,7 @@
     },
     {
         "CVE": "CVE-1999-0162",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-0302",
@@ -1637,7 +1637,7 @@
     },
     {
         "CVE": "CVE-1999-1181",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-0186",
@@ -1705,7 +1705,7 @@
     },
     {
         "CVE": "CVE-1999-1321",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1021.004 - SSH"
     },
     {
         "CVE": "CVE-1999-1153",
@@ -1821,7 +1821,7 @@
     },
     {
         "CVE": "CVE-1999-1277",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-1278",
@@ -1829,7 +1829,7 @@
     },
     {
         "CVE": "CVE-1999-0968",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-1281",
@@ -1925,7 +1925,7 @@
     },
     {
         "CVE": "CVE-1999-0384",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1059.005 - Visual Basic"
     },
     {
         "CVE": "CVE-1999-0388",
@@ -1965,7 +1965,7 @@
     },
     {
         "CVE": "CVE-1999-0454",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-1999-0465",
@@ -2005,7 +2005,7 @@
     },
     {
         "CVE": "CVE-1999-0531",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0539",
@@ -2069,7 +2069,7 @@
     },
     {
         "CVE": "CVE-1999-0583",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1583.001 - Domains"
     },
     {
         "CVE": "CVE-1999-0587",
@@ -2109,31 +2109,31 @@
     },
     {
         "CVE": "CVE-1999-0614",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0615",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0616",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0617",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0619",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0620",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0621",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0622",
@@ -2141,7 +2141,7 @@
     },
     {
         "CVE": "CVE-1999-0623",
-        "Technique": "T1543.003 - Windows Service"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0624",
@@ -2149,11 +2149,11 @@
     },
     {
         "CVE": "CVE-1999-0631",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0633",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0634",
@@ -2165,35 +2165,35 @@
     },
     {
         "CVE": "CVE-1999-0642",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0643",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0644",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0645",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0646",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0647",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0648",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0649",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0650",
@@ -2201,7 +2201,7 @@
     },
     {
         "CVE": "CVE-1999-0652",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0653",
@@ -2221,15 +2221,15 @@
     },
     {
         "CVE": "CVE-1999-0658",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0659",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0660",
-        "Technique": "T1053.002 - At"
+        "Technique": "T0851 - Rootkit"
     },
     {
         "CVE": "CVE-1999-0661",
@@ -2257,7 +2257,7 @@
     },
     {
         "CVE": "CVE-1999-1430",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-1440",
@@ -2381,7 +2381,7 @@
     },
     {
         "CVE": "CVE-1999-0291",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-0351",
@@ -2437,7 +2437,7 @@
     },
     {
         "CVE": "CVE-1999-0370",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-1375",
@@ -2585,7 +2585,7 @@
     },
     {
         "CVE": "CVE-1999-0430",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-0431",
@@ -2613,7 +2613,7 @@
     },
     {
         "CVE": "CVE-2000-0371",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-1999-1551",
@@ -2641,7 +2641,7 @@
     },
     {
         "CVE": "CVE-1999-1567",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-0417",
@@ -2705,7 +2705,7 @@
     },
     {
         "CVE": "CVE-1999-0443",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-0445",
@@ -2777,7 +2777,7 @@
     },
     {
         "CVE": "CVE-1999-0471",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-0801",
@@ -3121,7 +3121,7 @@
     },
     {
         "CVE": "CVE-1999-0748",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-1999-1470",
@@ -3237,7 +3237,7 @@
     },
     {
         "CVE": "CVE-1999-1535",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-0810",
@@ -3249,7 +3249,7 @@
     },
     {
         "CVE": "CVE-1999-1338",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-0224",
@@ -3313,7 +3313,7 @@
     },
     {
         "CVE": "CVE-1999-0722",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-0674",
@@ -3469,7 +3469,7 @@
     },
     {
         "CVE": "CVE-1999-1513",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-0774",
@@ -3541,7 +3541,7 @@
     },
     {
         "CVE": "CVE-1999-0910",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-1575",
@@ -3553,7 +3553,7 @@
     },
     {
         "CVE": "CVE-1999-0687",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-1999-0689",
@@ -3701,11 +3701,11 @@
     },
     {
         "CVE": "CVE-1999-1540",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-1541",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-1542",
@@ -3745,11 +3745,11 @@
     },
     {
         "CVE": "CVE-1999-1082",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-1083",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-2000-0369",
@@ -3765,7 +3765,7 @@
     },
     {
         "CVE": "CVE-2000-0356",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1556.003 - Pluggable Authentication Modules"
     },
     {
         "CVE": "CVE-1999-0943",
@@ -3813,7 +3813,7 @@
     },
     {
         "CVE": "CVE-1999-0944",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-1999-0883",
@@ -3869,11 +3869,11 @@
     },
     {
         "CVE": "CVE-1999-0354",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1059.005 - Visual Basic"
     },
     {
         "CVE": "CVE-1999-0827",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1583.001 - Domains"
     },
     {
         "CVE": "CVE-1999-0854",
@@ -4009,7 +4009,7 @@
     },
     {
         "CVE": "CVE-1999-1539",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-2000-0329",
@@ -4021,11 +4021,11 @@
     },
     {
         "CVE": "CVE-2000-0330",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-2000-0165",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-1528",
@@ -4093,7 +4093,7 @@
     },
     {
         "CVE": "CVE-1999-1527",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1590.005 - IP Addresses"
     },
     {
         "CVE": "CVE-2000-0531",
@@ -4201,7 +4201,7 @@
     },
     {
         "CVE": "CVE-1999-0858",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-0864",
@@ -4337,7 +4337,7 @@
     },
     {
         "CVE": "CVE-1999-1004",
-        "Technique": "T1583.004 - Server"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-1005",
@@ -4373,7 +4373,7 @@
     },
     {
         "CVE": "CVE-2000-0024",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-2000-0025",
@@ -4465,7 +4465,7 @@
     },
     {
         "CVE": "CVE-1999-1573",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-2000-0014",
@@ -4481,7 +4481,7 @@
     },
     {
         "CVE": "CVE-2000-0007",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-2000-0009",
@@ -4585,7 +4585,7 @@
     },
     {
         "CVE": "CVE-1999-1157",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1590.005 - IP Addresses"
     },
     {
         "CVE": "CVE-1999-1167",
@@ -4605,7 +4605,7 @@
     },
     {
         "CVE": "CVE-1999-1222",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1583.002 - DNS Server"
     },
     {
         "CVE": "CVE-1999-1223",
@@ -4637,7 +4637,7 @@
     },
     {
         "CVE": "CVE-1999-1293",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-1999-1294",
@@ -4817,7 +4817,7 @@
     },
     {
         "CVE": "CVE-1999-1592",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-2000-0011",
@@ -4993,7 +4993,7 @@
     },
     {
         "CVE": "CVE-1999-0992",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-2000-0079",
@@ -5105,7 +5105,7 @@
     },
     {
         "CVE": "CVE-2000-0110",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-2000-0121",
@@ -5141,7 +5141,7 @@
     },
     {
         "CVE": "CVE-2000-1205",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-2000-0112",
@@ -5281,7 +5281,7 @@
     },
     {
         "CVE": "CVE-2000-0160",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-2000-0163",
@@ -5397,7 +5397,7 @@
     },
     {
         "CVE": "CVE-2000-0177",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1590.002 - DNS"
     },
     {
         "CVE": "CVE-2000-0190",
@@ -5453,7 +5453,7 @@
     },
     {
         "CVE": "CVE-2000-0184",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-2000-0173",
@@ -5617,11 +5617,11 @@
     },
     {
         "CVE": "CVE-2000-0251",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1590.005 - IP Addresses"
     },
     {
         "CVE": "CVE-2000-0300",
-        "Technique": "T1087.002 - Domain Account"
+        "Technique": "T1136.002 - Domain Account"
     },
     {
         "CVE": "CVE-2000-0301",
@@ -5685,7 +5685,7 @@
     },
     {
         "CVE": "CVE-2000-0262",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-2000-0282",
@@ -5813,11 +5813,11 @@
     },
     {
         "CVE": "CVE-2000-0338",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-2000-0248",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-2000-0321",
@@ -5829,7 +5829,7 @@
     },
     {
         "CVE": "CVE-2000-0334",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-2000-0337",
@@ -5893,7 +5893,7 @@
     },
     {
         "CVE": "CVE-2000-0448",
-        "Technique": "T1588.002 - Tool"
+        "Technique": "T1053.002 - At"
     },
     {
         "CVE": "CVE-2000-0449",
@@ -6025,7 +6025,7 @@
     },
     {
         "CVE": "CVE-2000-0416",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1090 - Proxy"
     },
     {
         "CVE": "CVE-2000-0419",
@@ -6057,15 +6057,15 @@
     },
     {
         "CVE": "CVE-2000-0434",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-2000-0435",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-2000-0397",
-        "Technique": "T1087.003 - Email Account"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-2000-0424",
@@ -6173,7 +6173,7 @@
     },
     {
         "CVE": "CVE-2000-0396",
-        "Technique": "T1053.002 - At"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-2000-0398",
