@@ -1109,7 +1109,7 @@
     },
     {
         "CVE": "CVE-1999-0013",
-        "Technique": "T1589.001 - Credentials"
+        "Technique": "T1021.004 - SSH"
     },
     {
         "CVE": "CVE-1999-0087",
@@ -1705,7 +1705,7 @@
     },
     {
         "CVE": "CVE-1999-1321",
-        "Technique": "T1021.004 - SSH"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-1153",
@@ -1893,7 +1893,7 @@
     },
     {
         "CVE": "CVE-1999-0248",
-        "Technique": "T1589.001 - Credentials"
+        "Technique": "T1021.004 - SSH"
     },
     {
         "CVE": "CVE-1999-0268",
@@ -2233,7 +2233,7 @@
     },
     {
         "CVE": "CVE-1999-0661",
-        "Technique": "T1021.004 - SSH"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-0662",
@@ -3197,7 +3197,7 @@
     },
     {
         "CVE": "CVE-1999-0809",
-        "Technique": "T1059.007 - JavaScript"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-1543",
@@ -3309,7 +3309,7 @@
     },
     {
         "CVE": "CVE-1999-1524",
-        "Technique": "T1110 - Brute Force"
+        "Technique": "T1592.003 - Firmware"
     },
     {
         "CVE": "CVE-1999-0722",
@@ -4813,7 +4813,7 @@
     },
     {
         "CVE": "CVE-1999-1591",
-        "Technique": "T1589.001 - Credentials"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-1592",
@@ -5281,7 +5281,7 @@
     },
     {
         "CVE": "CVE-2000-0160",
-        "Technique": "T1592.002 - Software"
+        "Technique": "T1547.014 - Active Setup"
     },
     {
         "CVE": "CVE-2000-0163",
@@ -5397,7 +5397,7 @@
     },
     {
         "CVE": "CVE-2000-0177",
-        "Technique": "T1071.004 - DNS"
+        "Technique": "T1588.002 - Tool"
     },
     {
         "CVE": "CVE-2000-0190",
