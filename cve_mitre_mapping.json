@@ -425,7 +425,7 @@
     },
     {
         "CVE": "CVE-1999-0101",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0297",
@@ -553,7 +553,7 @@
     },
     {
         "CVE": "CVE-1999-0048",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0174",
@@ -593,7 +593,7 @@
     },
     {
         "CVE": "CVE-1999-0299",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-1408",
@@ -833,7 +833,7 @@
     },
     {
         "CVE": "CVE-1999-0024",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-1250",
@@ -1109,7 +1109,7 @@
     },
     {
         "CVE": "CVE-1999-0013",
-        "Technique": "T1021.004 - SSH"
+        "Technique": "T1589.001 - Credentials"
     },
     {
         "CVE": "CVE-1999-0087",
@@ -1237,7 +1237,7 @@
     },
     {
         "CVE": "CVE-1999-0010",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0011",
@@ -1705,7 +1705,7 @@
     },
     {
         "CVE": "CVE-1999-1321",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1021.004 - SSH"
     },
     {
         "CVE": "CVE-1999-1153",
@@ -1893,7 +1893,7 @@
     },
     {
         "CVE": "CVE-1999-0248",
-        "Technique": "T1021.004 - SSH"
+        "Technique": "T1589.001 - Credentials"
     },
     {
         "CVE": "CVE-1999-0268",
@@ -2137,7 +2137,7 @@
     },
     {
         "CVE": "CVE-1999-0622",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0623",
@@ -2157,7 +2157,7 @@
     },
     {
         "CVE": "CVE-1999-0634",
-        "Technique": "T1021.004 - SSH"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0637",
@@ -2233,7 +2233,7 @@
     },
     {
         "CVE": "CVE-1999-0661",
-        "Technique": "T1021.004 - SSH"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-0662",
@@ -2477,7 +2477,7 @@
     },
     {
         "CVE": "CVE-1999-1060",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-1405",
@@ -2561,7 +2561,7 @@
     },
     {
         "CVE": "CVE-1999-0223",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0261",
@@ -3029,7 +3029,7 @@
     },
     {
         "CVE": "CVE-2000-0333",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0772",
@@ -3237,7 +3237,7 @@
     },
     {
         "CVE": "CVE-1999-1535",
-        "Technique": "T1574.001 - DLL"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-1999-0810",
@@ -3369,7 +3369,7 @@
     },
     {
         "CVE": "CVE-1999-0745",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-0747",
@@ -4353,7 +4353,7 @@
     },
     {
         "CVE": "CVE-2000-0020",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-1497",
@@ -4613,7 +4613,7 @@
     },
     {
         "CVE": "CVE-1999-1233",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-1246",
@@ -4729,7 +4729,7 @@
     },
     {
         "CVE": "CVE-1999-1379",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-1999-1382",
@@ -4921,7 +4921,7 @@
     },
     {
         "CVE": "CVE-2000-1221",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-2000-0046",
@@ -5281,7 +5281,7 @@
     },
     {
         "CVE": "CVE-2000-0160",
-        "Technique": "T1547.014 - Active Setup"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-2000-0163",
@@ -5397,7 +5397,7 @@
     },
     {
         "CVE": "CVE-2000-0177",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1588.002 - Tool"
     },
     {
         "CVE": "CVE-2000-0190",
@@ -5713,7 +5713,7 @@
     },
     {
         "CVE": "CVE-2000-1218",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-2000-0263",
@@ -5941,7 +5941,7 @@
     },
     {
         "CVE": "CVE-2000-0335",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-2000-0345",
@@ -6065,7 +6065,7 @@
     },
     {
         "CVE": "CVE-2000-0397",
-        "Technique": "T1087.003 - Email Account"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-2000-0424",
@@ -6101,7 +6101,7 @@
     },
     {
         "CVE": "CVE-2000-0405",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-2000-0432",
@@ -6217,7 +6217,7 @@
     },
     {
         "CVE": "CVE-2000-0517",
-        "Technique": "T1590.002 - DNS"
+        "Technique": "T1071.004 - DNS"
     },
     {
         "CVE": "CVE-2000-0553",
