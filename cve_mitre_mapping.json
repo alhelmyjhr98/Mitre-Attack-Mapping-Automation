@@ -1361,7 +1361,7 @@
     },
     {
         "CVE": "CVE-1999-1085",
-        "Technique": "T1021.004 - SSH"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-0783",
@@ -2013,7 +2013,7 @@
     },
     {
         "CVE": "CVE-1999-0547",
-        "Technique": "T1021.004 - SSH"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-0548",
@@ -2141,7 +2141,7 @@
     },
     {
         "CVE": "CVE-1999-0623",
-        "Technique": "T1588.006 - Vulnerabilities"
+        "Technique": "T1543.003 - Windows Service"
     },
     {
         "CVE": "CVE-1999-0624",
@@ -2157,7 +2157,7 @@
     },
     {
         "CVE": "CVE-1999-0634",
-        "Technique": "T1021.004 - SSH"
+        "Technique": "T1588.006 - Vulnerabilities"
     },
     {
         "CVE": "CVE-1999-0637",
@@ -2953,7 +2953,7 @@
     },
     {
         "CVE": "CVE-1999-1029",
-        "Technique": "T1021.004 - SSH"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-1999-0489",
@@ -3081,7 +3081,7 @@
     },
     {
         "CVE": "CVE-1999-1231",
-        "Technique": "T1021.004 - SSH"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-2000-0118",
@@ -3545,7 +3545,7 @@
     },
     {
         "CVE": "CVE-1999-1575",
-        "Technique": "T1574.001 - DLL"
+        "Technique": "T1547.014 - Active Setup"
     },
     {
         "CVE": "CVE-1999-1521",
@@ -4093,7 +4093,7 @@
     },
     {
         "CVE": "CVE-1999-1527",
-        "Technique": "T1590.005 - IP Addresses"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-2000-0531",
@@ -4293,7 +4293,7 @@
     },
     {
         "CVE": "CVE-1999-1010",
-        "Technique": "T1021.004 - SSH"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-2000-0068",
@@ -5225,7 +5225,7 @@
     },
     {
         "CVE": "CVE-2000-0143",
-        "Technique": "T1021.004 - SSH"
+        "Technique": "T1584.004 - Server"
     },
     {
         "CVE": "CVE-2000-0150",
@@ -6065,7 +6065,7 @@
     },
     {
         "CVE": "CVE-2000-0397",
-        "Technique": "T1087.003 - Email Account"
+        "Technique": "T1592.002 - Software"
     },
     {
         "CVE": "CVE-2000-0424",
